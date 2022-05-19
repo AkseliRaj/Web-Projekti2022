@@ -1,0 +1,1 @@
+Tässä repositoriossa on kaikki Web-tekniikkoja varten tehdyt koodit.
