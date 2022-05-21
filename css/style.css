@@ -11,8 +11,31 @@ body{
 
 }
 
-#h1 {
+.h1 {
     padding-top: 30px;
+}
+
+#hyperlink {
+    background-color: #0484b4;
+    color: white;
+    padding: 10px 20px;
+    margin-top: 20px;
+    text-decoration: none;
+    display: inline-block;
+    transition-duration: 0.5s;
+    border-radius: 25px;
+}
+
+#hyperlink:hover{
+    background-color: #0c445e;
+    color: white;
+}
+
+#website {
+    background-color: #04648c;
+    color: white;
+    padding: 30px 30px;
+    border-radius: 25px;
 }
 
 #footer {
