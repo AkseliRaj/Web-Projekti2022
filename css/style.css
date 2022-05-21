@@ -1,0 +1,5 @@
+#photocontainer {
+    display: flex;
+    align-items: center;
+    background-image: url(/pictures/jellyfish.jpg);
+}
