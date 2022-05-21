@@ -1,5 +1,31 @@
-#photocontainer {
-    display: flex;
-    align-items: center;
-    background-image: url(/pictures/jellyfish.jpg);
+body{
+    height: 100vh;
+} 
+
+#textcontainer {
+    color: #04648c;
+    font-family: Bahnschrift;
+    font-size: 60px; 
+    background-image: url(../logoAndBackgroundImage/Background\ image.jpg); 
+    height: 100%;
+
+}
+
+#h1 {
+    padding-top: 30px;
+}
+
+#footer {
+    position:absolute;
+    bottom:0;
+}
+
+#footer, nav {
+    background-color: #04648c;
+    font-family: Bahnschrift;
+    color: white;
+}
+
+#a {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
