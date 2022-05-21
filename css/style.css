@@ -11,8 +11,8 @@ body{
 
 }
 
-.h1 {
-    padding-top: 30px;
+#heading {
+    color: #04648c;
 }
 
 #hyperlink {
@@ -39,8 +39,7 @@ body{
 }
 
 #footer {
-    position:absolute;
-    bottom:0;
+   
 }
 
 #footer, nav {
