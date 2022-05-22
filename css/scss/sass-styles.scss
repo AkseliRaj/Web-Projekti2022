@@ -1,0 +1,69 @@
+body{
+    height: 100vh;
+} 
+
+#facts {
+    color: #04648c;
+    font-family: Bahnschrift;
+    padding: 150px 20px;
+    font-size: large;
+}
+
+#textcontainer {
+    color: #04648c;
+    font-family: Bahnschrift;
+    font-size: 30px;
+    padding: 150px 20px;
+}
+
+#textcontainer p {
+    margin-top: 30px;
+    padding: 10px 10px;
+    background-color: #0484b4;
+    border-radius: 20px;
+    color: #fff;
+}
+
+#heading {
+    color: #04648c;
+}
+
+#hyperlink {
+    background-color: #0484b4;
+    color: white;
+    font-family: Bahnschrift;
+    padding: 10px 20px;
+    margin-top: 20px;
+    text-decoration: none;
+    display: inline-block;
+    transition-duration: 0.5s;
+    border-radius: 25px;
+}
+
+#hyperlink:hover{
+    background-color: #0c445e;
+    color: white;
+}
+
+#suggestions {
+    padding: 110px 20px;
+}
+
+#website {
+    background-color: #04648c;
+    color: white;
+    font-family: Bahnschrift;
+    padding: 20px 10px;
+    border-radius: 35px;
+    margin-left: 10px;
+}
+
+#footer, nav {
+    background-color: #04648c;
+    font-family: Bahnschrift;
+    color: white;
+}
+
+#a {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
