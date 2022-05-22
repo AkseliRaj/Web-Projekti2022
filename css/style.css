@@ -2,6 +2,10 @@ body{
     height: 100vh;
 } 
 
+div > p {
+    font-family: Bahnschrift;
+}
+
 #facts {
     color: #04648c;
     font-family: Bahnschrift;
@@ -9,9 +13,12 @@ body{
     font-size: large;
 }
 
+p[target] {
+    padding: 550px;
+}
+
 #textcontainer {
     color: #04648c;
-    font-family: Bahnschrift;
     font-size: 30px;
     padding: 150px 20px;
 }
@@ -67,3 +74,4 @@ body{
 #a {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
