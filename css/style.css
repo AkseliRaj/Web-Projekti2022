@@ -2,13 +2,19 @@ body{
     height: 100vh;
 } 
 
+#facts {
+    color: #04648c;
+    font-family: Bahnschrift;
+    padding: 150px 20px;
+    font-size: large;
+}
+
 #textcontainer {
     color: #04648c;
     font-family: Bahnschrift;
     font-size: 60px; 
     background-image: url(../logoAndBackgroundImage/Background\ image.jpg); 
     height: 100%;
-
 }
 
 #heading {
@@ -18,6 +24,7 @@ body{
 #hyperlink {
     background-color: #0484b4;
     color: white;
+    font-family: Bahnschrift;
     padding: 10px 20px;
     margin-top: 20px;
     text-decoration: none;
@@ -31,15 +38,17 @@ body{
     color: white;
 }
 
+#suggestions {
+    padding: 110px 20px;
+}
+
 #website {
     background-color: #04648c;
     color: white;
-    padding: 30px 30px;
-    border-radius: 25px;
-}
-
-#footer {
-   
+    font-family: Bahnschrift;
+    padding: 20px 10px;
+    border-radius: 35px;
+    margin-left: 10px;
 }
 
 #footer, nav {
