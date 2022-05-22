@@ -1,1 +1,1 @@
-Tässä repositoriossa on kaikki Web-tekniikkoja varten tehdyt koodit.
+Tämä repositorio on Oulun Ammattikorkeakoulun projekti Web tekniikat-2022 kurssia varten.
