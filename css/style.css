@@ -12,9 +12,16 @@ body{
 #textcontainer {
     color: #04648c;
     font-family: Bahnschrift;
-    font-size: 60px; 
-    background-image: url(../logoAndBackgroundImage/Background\ image.jpg); 
-    height: 100%;
+    font-size: 30px;
+    padding: 150px 20px;
+}
+
+#textcontainer p {
+    margin-top: 30px;
+    padding: 10px 10px;
+    background-color: #0484b4;
+    border-radius: 20px;
+    color: white;
 }
 
 #heading {
